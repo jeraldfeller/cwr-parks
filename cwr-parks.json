@@ -1,0 +1,28 @@
+[
+    {
+        "Town Centre Park": {
+            "Street Address": "1299 Pinetree Way",
+            "City": "Coquitlam",
+            "Province": "BC",
+            "Playground": "Y",
+            "Picnic Area": "Y",
+            "Fishing": "Y",
+            "Trails": "Y",
+            "Washrooms": "Y",
+            "Swimming": "Y"
+        }
+    },
+    {
+        "Walton Park": {
+            "Street Address": "1255 Durant Drive",
+            "City": "Coquitlam",
+            "Province": "BC",
+            "Playground": "N",
+            "Picnic Area": "N",
+            "Fishing": "N",
+            "Trails": "N",
+            "Washrooms": "N",
+            "Swimming": "N"
+        }
+    }
+]
